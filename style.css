@@ -55,10 +55,9 @@ button {
 }
 button:hover {
     background-color: black;
-    color:rgb(217, 51, 79);
-} 
-
+    color:rgb(134, 184, 228);
+}
 button:active {
-    background-color:  rgb(130, 187, 236);
+    background-color: rgb(134, 184, 228);
     color: aliceblue;
 }
