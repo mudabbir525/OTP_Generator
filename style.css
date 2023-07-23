@@ -59,5 +59,58 @@ button:hover {
 }
 button:active {
     background-color: rgb(134, 184, 228);
-    color: black;
+    color: aliceblue;
 }
+.feedback-link {
+    display: block;
+    width: 180px;
+    margin: 20px auto;
+    background-color: #1a73e8;
+    color: #fff;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .feedback-link:hover {
+    background-color: #0d47a1;
+  }
+  
+.termsAndConditions {
+    margin-top: 20px;
+  }
+  
+  .termsAndConditions h2 {
+    font-size: 20px;
+  }
+  
+  .termsAndConditions ol {
+    padding-left: 20px;
+  }
+  
+  .termsAndConditions p {
+    font-size: 12px;
+    color: #777;
+  }
+  .terms-conditions {
+    margin-top: 20px;
+    font-size: 14px;
+    color: #777;
+    text-align: center;
+  }
+  
+  .terms-conditions p {
+    margin: 0;
+  }
+  
+  .image-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
