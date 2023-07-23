@@ -41,3 +41,10 @@ Contributions to this project are welcome. If you would like to contribute, plea
 https://github.com/mudabbir525/OTP_Generator/assets/116947092/153e280f-7329-43af-8d60-6d3a250c511e
 
 
+
+#updated
+##published this code
+https://mudabbir525.github.io/OTP_Generator/
+
+
+
