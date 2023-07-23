@@ -144,7 +144,7 @@
     
     
     function sendCommentByEmail() {
-      const comment = document.getElementById("feedback").value;
+      const feedback = document.getElementById("feedback").value;
       const subject = "Feedback from a Friend";
       const recipient = "sohailmudabbir@gmail.com"; // Replace with the recipient's email address
       const mailtoLink = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(comment)}`;
