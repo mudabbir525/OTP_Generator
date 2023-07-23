@@ -144,9 +144,12 @@
     
     
     function sendCommentByEmail() {
-      const feedback = document.getElementById("feedback").value;
+      const comment = document.getElementById("feedback").value;
       const subject = "Feedback from a Friend";
-      const recipient = "sohailmudabbir@gmail.com"; // Replace with the recipient's email address
+      const recipient = "sohailmudabbir@gmail.com";
+      // Replace with the recipient's email address
+      const recipient = "pmudabbir40@gmail.com";
+      const recipient = "sohailpasha59@gmail.com";
       const mailtoLink = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(comment)}`;
       window.location.href = mailtoLink;
     }
