@@ -27,7 +27,8 @@ Contributions to this project are welcome. If you would like to contribute, plea
 
 
 ## Time taken to finish this project
-- 2.5 hours to Complete it.
+- working on this project to make it more perfect
+- the time spent till now is almost more than 26 hrs
 
 <br>
 #OTP Generator looks like this
